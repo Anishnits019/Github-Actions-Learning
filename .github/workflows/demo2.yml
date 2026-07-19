@@ -1,4 +1,4 @@
-name: Test Project
+name: Test Project 2
 on: [push,workflow_dispatch]
 
 jobs:
